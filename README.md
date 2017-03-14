@@ -1,3 +1,6 @@
+## Official guide
+https://payara.gitbooks.io/payara-server/content/documentation/extended-documentation/cdi-events.html
+
 ## Reproduce steps
 1. cd to the payara-micro-remote-cdi-event-demo folder
 2. package first
