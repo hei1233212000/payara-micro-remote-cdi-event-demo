@@ -1,5 +1,5 @@
 ## Reproduce steps
-1. cd to the clustered-cdi-event-bug folder
+1. cd to the payara-micro-remote-cdi-event-demo folder
 2. package first
 >$ mvn clean package
 3. start 3 instances by execute the following command
